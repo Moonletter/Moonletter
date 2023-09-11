@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Moonletter_World!&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 # Hi there 👋
-<p>현재 엔코아 PlayData의 AI프로젝트 글로벌 표준 기반의 풀스택 딥러닝 활용 SW 개발자 양성 교육과정을 통해 공부중입니다.</p>
+<p>현재 엔코아 PlayData의 AI프로젝트 글로벌 표준 기반의 풀스택 딥러닝 활용 SW 개발자 양성 교육과정을 통해 공부중입니다.</br></br></p>
 
-</br>
 <!--
 **Moonletter/Moonletter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +19,9 @@ Here are some ideas to get you started:
 -->
 
 <div>
+  
   <h2>사용 가능한 기술스택</h2>
+  
   <h3>[ DEVELOP ]</h3>
   <!-- html5 -->
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -62,4 +63,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white"/>
   <!-- slack -->
   <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+  
 </div>
