@@ -22,26 +22,33 @@ Here are some ideas to get you started:
   <h2>사용 가능한 기술스택</h2>
   <h3>[ DEVELOP ]</h3>
   <!-- html5 -->
-  <img src="https://img.shields.io/badge/html5-181717?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <!-- css3 -->
-  <img src="https://img.shields.io/badge/css3-181717?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <!-- javascript -->
-  <img src="https://img.shields.io/badge/javascript-181717?style=flat&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 
   <!-- django -->
-  <img src="https://img.shields.io/badge/django-181717?style=flat&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white"/>
 
   <!-- python -->
-  <img src="https://img.shields.io/badge/python-181717?style=flat&logo=python&logoColor=white"/>
-  <!-- oracle cloud -->
-  <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
-  <!--  -->
-  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
-  <!-- github -->
-  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <!-- pytorch -->
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <!-- pandas -->
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <!-- hugging face -->
+  <img src="https://img.shields.io/badge/hugging_face-FCC326?style=flat"/>
 
   <h3>[ SERVER ]</h3>
-  
+  <!-- docker -->
+  <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <!-- oracle cloud -->
+  <img src="https://img.shields.io/badge/oraclecloud-F80000?style=flat&logo=oracle&logoColor=white"/>
+  <!-- mysql -->
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <!-- airflow -->
+  <img src="https://img.shields.io/badge/apacheairflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/>
   
   <h3>[ TOOLS ]</h3>
   <!-- github -->
@@ -59,5 +66,4 @@ Here are some ideas to get you started:
 </br>
 <h3>[ GitHub stats ]</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moonletter&show_icons=true&theme=github_dark)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonletterID&show_icons=true&theme=github_dark)
