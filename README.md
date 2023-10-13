@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Moonletter_World!&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 # Hi there 👋
-<p>현재 엔코아 PlayData의 AI프로젝트 글로벌 표준 기반의 풀스택 딥러닝 활용 SW 개발자 양성 교육과정을 통해 공부중입니다.
-  </br>꾸준하게 개발공부를 해나가면서 스스로 성장하며, 끊임없이 호기심을 자극해낼겁니다.
+<p>현재 꾸준하게 개발공부를 해나가면서 스스로 성장해 나가고있는 병아리개발자입니다.
   </br>
 </p>
 
