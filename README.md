@@ -42,17 +42,17 @@ Here are some ideas to get you started:
   <!-- pandas -->
   <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
   <!-- hugging face -->
-  <img src="https://img.shields.io/badge/hugging_face-FCC326?style=flat"/>
+<!--   <img src="https://img.shields.io/badge/hugging_face-FCC326?style=flat"/> -->
 
   <h3>[ SERVER ]</h3>
   <!-- docker -->
   <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <!-- oracle cloud -->
-  <img src="https://img.shields.io/badge/oraclecloud-F80000?style=flat&logo=oracle&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/oraclecloud-F80000?style=flat&logo=oracle&logoColor=white"/> -->
   <!-- mysql -->
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <!-- airflow -->
-  <img src="https://img.shields.io/badge/apacheairflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/apacheairflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/> -->
   
   <h3>[ TOOLS ]</h3>
   <!-- github -->
