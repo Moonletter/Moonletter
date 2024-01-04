@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Moonletter_World!&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 # Hi there 👋
-<p>현재 꾸준하게 개발공부를 해나가면서 스스로 성장해 나가고있는 병아리개발자입니다.
+<p>현재 꾸준하게 개발에 관련된 공부를 하며 성장해 나가고있는 병아리개발자입니다.
   </br>
 </p>
 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
   <h3>[ SERVER ]</h3>
   <!-- docker -->
-  <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/> -->
   <!-- oracle cloud -->
 <!--   <img src="https://img.shields.io/badge/oraclecloud-F80000?style=flat&logo=oracle&logoColor=white"/> -->
   <!-- mysql -->
